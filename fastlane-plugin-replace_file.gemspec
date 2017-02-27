@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = %q{jonathan.ritchie@orionhealth.com}
 
   spec.summary       = %q{Replace any file in your mobile project.}
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-replace_file"
+  spec.homepage      = "https://github.com/jonathanneilritchie/fastlane-plugin-replace_file"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
